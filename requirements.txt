@@ -1,0 +1,11 @@
+torch==1.13.1+cu117  # 你的 container 當前用的 PyTorch 版本，推薦標明
+cudnn==7.6.5
+
+easydict>=1.9
+opencv-python>=4.5.0
+timm==0.6.13
+scipy>=1.7.0
+tqdm>=4.40.0
+tensorboardX>=2.2
+tensorboard>=2.11.0
+matplotlib>=3.0.0
